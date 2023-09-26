@@ -1,2 +1,3 @@
 # readme.md
-CPTS 101 GitHub Assignment
+Genevieve Kochel
+genevieve.kochel@wsu.edu
